@@ -1,0 +1,11 @@
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\bin\Debug\DylanDeSouzaEx7List.exe.config
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\bin\Debug\DylanDeSouzaEx7List.exe
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\bin\Debug\DylanDeSouzaEx7List.pdb
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.csproj.AssemblyReference.cache
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.Form1.resources
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.Properties.Resources.resources
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.csproj.GenerateResource.cache
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.exe
+C:\Users\Dylan\OneDrive - TAFE\Desktop\DylanDeSouzaEx7List\DylanDeSouzaEx7List\obj\Debug\DylanDeSouzaEx7List.pdb
