@@ -17,9 +17,11 @@ namespace DylanDeSouzaEx7List
         {
             InitializeComponent();
         }
+        
         List<string> products = new List<string>();
         List<double> prices = new List<double>();
-        double dblPrice;
+        double dblPrice = 0;
+        
         private void btnProductsAbove_Click(object sender, EventArgs e)
         {
             if (products.Count() > 0 | prices.Count() > 0)
@@ -37,11 +39,6 @@ namespace DylanDeSouzaEx7List
             {
                 MessageBox.Show("The product and the price both need to be provided");
             }
-        }
-
-        private void lblProduct_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void btnAcceptProduct_Click(object sender, EventArgs e)
